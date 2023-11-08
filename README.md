@@ -3,7 +3,7 @@ This is my first test project with next technoligies that is using an arabic dat
 
 I have used two model of machine learning that i have trained to do a classification on my data and i have used TfidfVectorizer(). TfidfVectorizer()  is a method from scikit-learn used for converting text data into numerical TF-IDF (Term Frequency-Inverse Document Frequency) representations, suitable for machine learning algorithms. And i have used model called MultinomialNB() and MultinomialNB() is a Naive Bayes classifier from scikit-learn used for text classification tasks, particularly suitable for discrete features like word counts, which assumes a multinomial distribution for feature probabilities. And another model called SVM() and SVM() (Support Vector Machine) is a powerful machine learning algorithm from scikit-learn used for classification and regression tasks, aiming to find the optimal hyperplane that best separates data points into different classes in a high-dimensional space.
 
-`My steps that i have followed in this solution are:`
+`Steps that i have followed in this solution are:`
 
 `step 1:` i have imported all the necessary libraries like scikit-learn and pandas and re 
  *scikit-learn (sklearn): A comprehensive machine learning library in Python that provides tools for data preprocessing, feature extraction, model selection, and evaluation. It offers implementations of various machine learning algorithms for tasks like classification, regression, clustering, and more.
